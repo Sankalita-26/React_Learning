@@ -1,5 +1,5 @@
 
-What it does:
+**What we have done here:**
 
 Fetches restaurant data from the Swiggy API using useEffect
 <img width="1440" height="809" alt="image" src="https://github.com/user-attachments/assets/daae863f-6b43-4687-a33f-72f83a9305e1" />
@@ -18,15 +18,14 @@ Allows users to search restaurants by name
 Filters top-rated restaurants (which has more than 4.5 ratings)
 <img width="1440" height="809" alt="filteredByRatings" src="https://github.com/user-attachments/assets/8addc43a-7e2c-4905-9e7d-935ec38f28cf" />
 
-Overall what we have learn here:
 
-Renders restaurant cards dynamically
 React Concepts Used:
+
 useState for state management
 useEffect for API calls
 Conditional rendering
 Controlled input
-
 map() and filter() for list updates
 
 PFB the snapshots
+
